@@ -1,20 +1,19 @@
-<h1 align="center"> Hey there! I'm Gurtej</h1>
+# Gurtej Virdi
 
-<p align="center">Welcome to my little Github corner! I am currently working towards my bachelors in computer science at Toronto Metropolitan University. Feel free to look around. :)</p>
+Welcome to my little GitHub corner!
+I am currently working towards my bachelors in computer science at Toronto Metropolitan University.
+Feel free to look around. :)
 
-<h3 align="center">📫 Contact Info</h3>
+## Languages
 
-<p align="center"><a href="mailto:virdigurtej@gmail.com">virdigurtej@gmail.com</a></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gurtejsv&layout=compact)
 
-<p align="center" ><a href="https://www.linkedin.com/in/gurtejsv/">Linkedin</a></p>
+## Contact
 
-<br/>
+- Email: [virdigurtej@gmail.com](mailto:virdigurtej@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/gurtejsv/](https://www.linkedin.com/in/gurtejsv/)
 
-<div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=gurtejsv&color=green)
-  
-</div>
 <!--
 **gurtejsv/gurtejsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
