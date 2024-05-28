@@ -1,7 +1,7 @@
 # Gurtej Virdi
 
 Welcome to my little GitHub corner!
-I am currently working towards my bachelors in computer science at Toronto Metropolitan University.
+
 Feel free to look around. :)
 
 ## Languages
